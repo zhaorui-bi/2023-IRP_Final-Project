@@ -10,4 +10,4 @@
 
 ### 4: Remote Control
 
-## Menu Control
+## Menu Control:
