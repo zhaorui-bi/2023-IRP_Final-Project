@@ -1,9 +1,13 @@
 # 2023-2024 IRP Codes
 
-## IR Lining
+## Functions:
 
-## Free Travel
+### 1: IR Lining
 
-## Camera Lining
+### 2: Free Travel
 
-## Remote Control
+### 3: Camera Lining
+
+### 4: Remote Control
+
+## Menu Control
