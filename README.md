@@ -1,5 +1,9 @@
 # 2023-2024 IRP Final Project Codes
 
+## Fritzing downloads in macOS
+
+https://github.com/fritzing/fritzing-app/releases
+
 ## Functions:
 
 ### 1: IR Lining
